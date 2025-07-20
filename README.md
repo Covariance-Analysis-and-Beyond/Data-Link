@@ -33,4 +33,4 @@ Please note that these links may be removed or renamed later by the source provi
 | 8    | Example 2 | https://www.nber.org/research/data |
 | 8    | Example 3 | * https://www.kaggle.com/datasets/kasikrit/att-database-of-faces |
 | 8    | Example 3 | * https://rdrr.io/cran/ElemStatLearn/man/zip.test.html |
-| 9    | Example 1 | https://pan.baidu.com/s/12U5Nn92Uny11HmuFHw0e4g?pwd=1234 |
+| 9    | Example 1 | * https://pan.baidu.com/s/12U5Nn92Uny11HmuFHw0e4g?pwd=1234 |
