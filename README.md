@@ -14,7 +14,7 @@ Please note that these links may be removed or renamed later by the source provi
 | Chapter | Example | Link |
 |---------|---------|------|
 | 1    | Example 1 | * http://archive.ics.uci.edu/dataset/182/concrete+slump+test |
-| 1    | Example 2 | * https://huggingface.co/datasets/Statistics-Data/GCRM |
+| 1    | Example 2 | * https://huggingface.co/datasets/Statistics-Data/LanWei |
 | 2    | Example 1 | https://www.sciencedirect.com/science/article/pii/S1535610802000302 |
 | 2    | Example 2 | * https://huggingface.co/datasets/Statistics-Data/GuoBin|
 | 2    | Example 3 | * http://www.functionaldata.org |
