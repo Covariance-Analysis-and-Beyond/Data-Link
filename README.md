@@ -14,14 +14,14 @@ Please note that these links may be removed or renamed later by the source provi
 | Chapter | Example | Link |
 |---------|---------|------|
 | 1    | Example 1 | * http://archive.ics.uci.edu/dataset/182/concrete+slump+test |
-| 1    | Example 2 | https://wrds-www.wharton.upenn.edu/ |
-| 2    | Example 1 | https://genomebiology.biomedcentral.com/articles/10.1186/gb-2004-5-11-r92#MOESM1 |
+| 1    | Example 2 | * https://github.com/Covariance-Analysis-and-Beyond/Data-Link/blob/main/Chapter%201%20E2%26Chapter%204%20E2_Data-GCRM.zip |
+| 2    | Example 1 | https://www.sciencedirect.com/science/article/pii/S1535610802000302 |
 | 2    | Example 2 | * https://github.com/Covariance-Analysis-and-Beyond/Data-Link/blob/main/Chapter2_Example2_data_SP500.zip|
 | 2    | Example 3 | * http://www.functionaldata.org |
 | 2    | Example 3 | * https://www.rdocumentation.org/packages/fda/versions/6.2.0/topics/CanadianWeather |
 | 3    | Example 3 | * https://archive.ics.uci.edu/dataset/52/ionosphere |
 | 4    | Example 1 | * https://github.com/tao-zou/Covariance-Regression-Analysis |
-| 4    | Example 2 | https://wrds-www.wharton.upenn.edu/ |
+| 4    | Example 2 | * https://github.com/Covariance-Analysis-and-Beyond/Data-Link/blob/main/Chapter%201%20E2%26Chapter%204%20E2_Data-GCRM.zip|
 | 4    | Example 3 | * https://github.com/tao-zou/Covariance-Regression-Analysis |
 | 5    | Example 2 | https://wrds-www.wharton.upenn.edu/ |
 | 6    | Example 1 | (Pending, check with Tao Zou) |
@@ -33,3 +33,4 @@ Please note that these links may be removed or renamed later by the source provi
 | 8    | Example 3 | * https://www.kaggle.com/datasets/kasikrit/att-database-of-faces |
 | 8    | Example 3 | * https://rdrr.io/cran/ElemStatLearn/man/zip.test.html |
 | 9    | Example 1 | * https://pan.baidu.com/s/12U5Nn92Uny11HmuFHw0e4g?pwd=1234 |
+|10    | Example 1 | * http://download.tensorflow.org/data/speech_commands_streaming_test_v0.02.tar.gz |
