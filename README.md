@@ -23,6 +23,7 @@ Please note that these links may be removed or renamed later by the source provi
 | 4    | Example 1 | * https://github.com/tao-zou/Covariance-Regression-Analysis |
 | 4    | Example 2 | * https://huggingface.co/datasets/Statistics-Data/GCRM|
 | 4    | Example 3 | * https://github.com/tao-zou/Covariance-Regression-Analysis |
+| 5    | Example 1 | * https://github.com/faosorios/outlier_GEE |
 | 5    | Example 2 | https://wrds-www.wharton.upenn.edu/ |
 | 6    | Example 1 | (Pending, check with Tao Zou) |
 | 7    | Example 1 | * https://github.com/GauJss/IONI |
