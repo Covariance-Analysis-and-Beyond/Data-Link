@@ -16,18 +16,18 @@ Please note that these links may be removed or renamed later by the source provi
 | 1    | Example 1 | * http://archive.ics.uci.edu/dataset/182/concrete+slump+test |
 | 1    | Example 2 | * https://huggingface.co/datasets/Statistics-Data/GCRM |
 | 2    | Example 1 | https://www.sciencedirect.com/science/article/pii/S1535610802000302 |
-| 2    | Example 2 | * https://huggingface.co/datasets/Statistics-Data/SP500|
+| 2    | Example 2 | * https://huggingface.co/datasets/LanWei-SWUFE/SP500|
 | 2    | Example 3 | * http://www.functionaldata.org |
 | 2    | Example 3 | * https://www.rdocumentation.org/packages/fda/versions/6.2.0/topics/CanadianWeather |
 | 3    | Example 3 | * https://archive.ics.uci.edu/dataset/52/ionosphere |
 | 4    | Example 1 | * https://github.com/tao-zou/Covariance-Regression-Analysis |
-| 4    | Example 2 | * https://huggingface.co/datasets/Statistics-Data/GCRM|
+| 4    | Example 2 | * https://huggingface.co/datasets/LanWei-SWUFE/GCRM|
 | 4    | Example 3 | * https://github.com/tao-zou/Covariance-Regression-Analysis |
 | 5    | Example 1 | * https://github.com/faosorios/outlier_GEE |
 | 5    | Example 2 | https://wrds-www.wharton.upenn.edu/ |
 | 6    | Example 1 | (Pending, check with Tao Zou) |
 | 7    | Example 1 | * https://github.com/GauJss/IONI |
-| 7    | Example 2&3 | * https://huggingface.co/datasets/Statistics-Data/Weibo_Social_Network |
+| 7    | Example 2&3 | * https://huggingface.co/datasets/LanWei-SWUFE/Weibo_Social_Network |
 | 8    | Example 1 | https://www.crsp.org |
 | 8    | Example 2 | https://www.nber.org/research/data |
 | 8    | Example 3 | * https://www.kaggle.com/datasets/kasikrit/att-database-of-faces |
