@@ -24,8 +24,8 @@ Please note that these links may be removed or renamed later by the source provi
 | 4    | Example 2 | * https://huggingface.co/datasets/Statistics-Data/LanWei|
 | 4    | Example 3 | * https://github.com/tao-zou/Covariance-Regression-Analysis |
 | 5    | Example 1 | * https://github.com/faosorios/outlier_GEE |
-| 5    | Example 2 | https://wrds-www.wharton.upenn.edu/ |
-| 6    | Example 1 | (Pending, check with Tao Zou) |
+| 5    | Example 2 | * https://github.com/tao-zou/Inference-on-Covariance-Mean-Regression |
+| 6    | Example 1 | *https://doi.org/10.1214/25-AOS2515SUPPB |
 | 7    | Example 1 | * https://github.com/GauJss/IONI |
 | 7    | Example 2&3 | * https://huggingface.co/datasets/Statistics-Data/ZhuXuening |
 | 8    | Example 1 | https://www.crsp.org |
