@@ -1,7 +1,6 @@
 # Links to Data Examples in *Covariance Analysis and Beyond*
 
-This resource provides links to articles for some of the examples used in the book Covariance Analysis and Beyond. 
-Please note that these links may be removed or renamed later by the source provider. We are not responsible for such changes.
+This resource provides links to the articles associated with the examples used in the book Covariance Analysis and Beyond.
 
 ---
 
@@ -35,5 +34,6 @@ Please note that these links may be removed or renamed later by the source provi
 | 8    | Example 2 | The dataset is described in the paper at the link https://doi.org/10.1198/016214502388618960.|
 | 8    | Example 3 | The dataset is described in the paper at the link https://doi.org/10.1198/073500102317351921.|
 | 8    | Example 4 | The dataset is described in the paper at the link https://doi.org/10.1080/01621459.2021.1970569.|
+| 9    | Example 1 | The dataset is described in Chapter 9 of the Book.|
 | 10    | Example 1 | The dataset is described in the paper at the link https://doi.org/10.1093/jrsssb/qkad070.|
 | 10    | Example 2 | The dataset is described in the paper at the link https://doi.org/10.1109/ICCVW.2011.6130452.|
