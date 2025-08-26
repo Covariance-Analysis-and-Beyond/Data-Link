@@ -30,7 +30,7 @@ Please note that these links may be removed or renamed later by the source provi
 | 6    | Example 1 | The dataset is described in the paper at the link https://doi.org/10.48550/arXiv.2501.03753.|
 | 7    | Example 1 | The dataset is described in the paper at the link https://doi.org/10.1080/07350015.2021.1953509.|
 | 7    | Example 2 | The dataset is described in the paper at the link https://doi.org/10.1016/j.jeconom.2018.12.021.|
-| 7    | Example 3 | The dataset is described in the paper at the https://doi.org/10.1080/01621459.2021.1901718.|
+| 7    | Example 3 | The dataset is described in the paper at the link https://doi.org/10.1080/01621459.2021.1901718.|
 | 8    | Example 1 | The dataset is described in the paper at the link https://doi.org/10.1111/1468-0262.00273.|
 | 8    | Example 2 | The dataset is described in the paper at the link https://doi.org/10.1198/016214502388618960.|
 | 8    | Example 3 | The dataset is described in the paper at the link https://doi.org/10.1198/073500102317351921.|
