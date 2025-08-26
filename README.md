@@ -9,15 +9,15 @@ Please note that these links may be removed or renamed later by the source provi
 
 | Chapter | Example | Link |
 |---------|---------|------|
-| 1    | Example 1 | The dataset is described in the paper at the link https://doi.org/10.1016/j.cemconcomp.2007.02.001.|
-| 1    | Example 1 | The dataset is described in the paper at the link https://doi.org/10.12989/cac.2008.5.6.559.|
+| 1    | Example 1.1 | The dataset is described in the paper at the link https://doi.org/10.1016/j.cemconcomp.2007.02.001.|
+| 1    | Example 1.2 | The dataset is described in the paper at the link https://doi.org/10.12989/cac.2008.5.6.559.|
 | 1    | Example 2 | The dataset is described in the paper at the link https://doi.org/10.1080/07350015.2022.2142593.|
-| 2    | Example 1 | The dataset is described in the paper at the link https://doi.org/10.1080/01621459.2012.758041.|
-| 2    | Example 1 | The dataset is described in the paper at the link https://doi.org/10.1214/16-EJS1195.|
-| 2    | Example 2 | The dataset is described in the paper at the link https://doi.org/10.1080/07350015.2014.923317.|
-| 2    | Example 2 | The dataset is described in the paper at the link https://doi.org/10.1016/j.jeconom.2022.10.008.|
-| 2    | Example 3 | The dataset is described in the paper at the link https://doi.org/10.1093/biomet/ass025.|
-| 2    | Example 3 | The dataset is described in the paper at the link https://doi.org/10.1214/16-AOS1481.|
+| 2    | Example 1.1 | The dataset is described in the paper at the link https://doi.org/10.1080/01621459.2012.758041.|
+| 2    | Example 1.2 | The dataset is described in the paper at the link https://doi.org/10.1214/16-EJS1195.|
+| 2    | Example 2.1 | The dataset is described in the paper at the link https://doi.org/10.1080/07350015.2014.923317.|
+| 2    | Example 2.2 | The dataset is described in the paper at the link https://doi.org/10.1016/j.jeconom.2022.10.008.|
+| 2    | Example 3.1 | The dataset is described in the paper at the link https://doi.org/10.1093/biomet/ass025.|
+| 2    | Example 3.2 | The dataset is described in the paper at the link https://doi.org/10.1214/16-AOS1481.|
 | 3    | Example 1 | The dataset is described in the paper at the link https://doi.org/10.1111/j.1469-8986.1980.tb02297.x.|
 | 3    | Example 2 | The dataset is described in the paper at the link https://doi.org/10.2307/2334137.|
 | 3    | Example 3 | The dataset is described in the paper at the link https://doi.org/10.1080/10618600.2012.715556.|
