@@ -1,10 +1,6 @@
 # Links to Data Examples in *Covariance Analysis and Beyond*
 
-This resource provides links to more information about some of the examples used in the book *Covariance Analysis and Beyond*. There are two types of links:
-
-- **Informational links** provide references to the original paper or dataset description.
-- **Downloadable links** are marked with “*” and allow direct access to the dataset.
-
+This resource provides links to articles for some of the examples used in the book Covariance Analysis and Beyond. 
 Please note that these links may be removed or renamed later by the source provider. We are not responsible for such changes.
 
 ---
@@ -13,24 +9,31 @@ Please note that these links may be removed or renamed later by the source provi
 
 | Chapter | Example | Link |
 |---------|---------|------|
-| 1    | Example 1 | * http://archive.ics.uci.edu/dataset/182/concrete+slump+test |
-| 1    | Example 2 | * https://huggingface.co/datasets/Statistics-Data/LanWei |
-| 2    | Example 1 | https://www.sciencedirect.com/science/article/pii/S1535610802000302 |
-| 2    | Example 2 | * https://huggingface.co/datasets/Statistics-Data/GuoBin|
-| 2    | Example 3 | * http://www.functionaldata.org |
-| 2    | Example 3 | * https://www.rdocumentation.org/packages/fda/versions/6.2.0/topics/CanadianWeather |
-| 3    | Example 3 | * https://archive.ics.uci.edu/dataset/52/ionosphere |
-| 4    | Example 1 | * https://github.com/tao-zou/Covariance-Regression-Analysis |
-| 4    | Example 2 | * https://huggingface.co/datasets/Statistics-Data/LanWei|
-| 4    | Example 3 | * https://github.com/tao-zou/Covariance-Regression-Analysis |
-| 5    | Example 1 | * https://github.com/faosorios/outlier_GEE |
-| 5    | Example 2 | * https://github.com/tao-zou/Inference-on-Covariance-Mean-Regression |
-| 6    | Example 1 | *https://doi.org/10.1214/25-AOS2515SUPPB |
-| 7    | Example 1 | * https://github.com/GauJss/IONI |
-| 7    | Example 2&3 | * https://huggingface.co/datasets/Statistics-Data/ZhuXuening |
-| 8    | Example 1 | https://www.crsp.org |
-| 8    | Example 2 | https://www.nber.org/research/data |
-| 8    | Example 3 | * https://www.kaggle.com/datasets/kasikrit/att-database-of-faces |
-| 8    | Example 3 | * https://rdrr.io/cran/ElemStatLearn/man/zip.test.html |
-| 9    | Example 1 | * https://pan.baidu.com/s/12U5Nn92Uny11HmuFHw0e4g?pwd=1234 |
-|10    | Example 1 | * http://download.tensorflow.org/data/speech_commands_streaming_test_v0.02.tar.gz |
+| 1    | Example 1 | The dataset is described in the paper at the link https://doi.org/10.1016/j.cemconcomp.2007.02.001.|
+| 1    | Example 1 | The dataset is described in the paper at the link https://doi.org/10.12989/cac.2008.5.6.559.|
+| 1    | Example 2 | The dataset is described in the paper at the link https://doi.org/10.1080/07350015.2022.2142593.|
+| 2    | Example 1 | The dataset is described in the paper at the link https://doi.org/10.1080/01621459.2012.758041.|
+| 2    | Example 1 | The dataset is described in the paper at the link https://doi.org/10.1214/16-EJS1195.|
+| 2    | Example 2 | The dataset is described in the paper at the link https://doi.org/10.1080/07350015.2014.923317.|
+| 2    | Example 2 | The dataset is described in the paper at the link https://doi.org/10.1016/j.jeconom.2022.10.008.|
+| 2    | Example 3 | The dataset is described in the paper at the link https://doi.org/10.1093/biomet/ass025.|
+| 2    | Example 3 | The dataset is described in the paper at the link https://doi.org/10.1214/16-AOS1481.|
+| 3    | Example 1 | The dataset is described in the paper at the link https://doi.org/10.1111/j.1469-8986.1980.tb02297.x.|
+| 3    | Example 2 | The dataset is described in the paper at the link https://doi.org/10.2307/2334137.|
+| 3    | Example 3 | The dataset is described in the paper at the link https://doi.org/10.1080/10618600.2012.715556.|
+| 3    | Example 4 | The dataset is described in the paper at the link https://doi.org/10.1093/biomet/93.1.85.|
+| 4    | Example 1 | The dataset is described in the paper at the link https://doi.org/10.1080/01621459.2015.1131699.|
+| 4    | Example 2 | The dataset is described in the paper at the link https://doi.org/10.1080/07350015.2022.2142593.|
+| 4    | Example 3 | The dataset is described in the paper at the link https://doi.org/10.1142/9789811202391_0113.|
+| 5    | Example 1 | The dataset is described in the paper at the link https://doi.org/10.1093/biomet/91.2.447.|
+| 5    | Example 2 | The dataset is described in the paper at the link https://doi.org/10.1016/j.jeconom.2021.05.004.|
+| 6    | Example 1 | The dataset is described in the paper at the link https://doi.org/10.48550/arXiv.2501.03753.|
+| 7    | Example 1 | The dataset is described in the paper at the link https://doi.org/10.1080/07350015.2021.1953509.|
+| 7    | Example 2 | The dataset is described in the paper at the link https://doi.org/10.1016/j.jeconom.2018.12.021.|
+| 7    | Example 3 | The dataset is described in the paper at the https://doi.org/10.1080/01621459.2021.1901718.|
+| 8    | Example 1 | The dataset is described in the paper at the link https://doi.org/10.1111/1468-0262.00273.|
+| 8    | Example 2 | The dataset is described in the paper at the link https://doi.org/10.1198/016214502388618960.|
+| 8    | Example 3 | The dataset is described in the paper at the link https://doi.org/10.1198/073500102317351921.|
+| 8    | Example 4 | The dataset is described in the paper at the link https://doi.org/10.1080/01621459.2021.1970569.|
+| 10    | Example 1 | The dataset is described in the paper at the link https://doi.org/10.1093/jrsssb/qkad070.|
+| 10    | Example 2 | The dataset is described in the paper at the link https://doi.org/10.1109/ICCVW.2011.6130452.|
