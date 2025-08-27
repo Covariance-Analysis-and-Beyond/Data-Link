@@ -1,4 +1,4 @@
-# Links to the Articles Associated with Most of the Examples Used in Covariance Analysis and Beyond.*
+# Links to the Articles Associated with Most of the Examples Used in Covariance Analysis and Beyond
 
 This resource provides links to the articles associated with most of the examples used in the book Covariance Analysis and Beyond.
 
