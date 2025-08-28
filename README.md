@@ -31,8 +31,7 @@ This resource provides links to the articles associated with most of the example
 | 7    | Example 3 | The dataset is described in the paper at the link https://doi.org/10.1080/01621459.2021.1901718.|
 | 8    | Example 1 | The dataset is described in the paper at the link https://doi.org/10.1111/1468-0262.00273.|
 | 8    | Example 2 | The dataset is described in the papers at the links https://doi.org/10.1198/016214502388618960 and https://doi.org/10.1198/073500102317351921.|
-| 8    | Example 3 | The dataset is described in the paper at the link https://doi.org/10.1198/073500102317351921.|
-| 8    | Example 4 | The dataset is described in the paper at the link https://doi.org/10.1080/01621459.2021.1970569.|
+| 8    | Example 3 | The dataset is described in the paper at the link https://doi.org/10.1080/01621459.2021.1970569.|
 | 9    | Example 1 | The dataset is described in Chapter 9 of this Book.|
 | 10    | Example 1 | The dataset is described in the paper at the link https://doi.org/10.1093/jrsssb/qkad070.|
 | 10    | Example 2 | The dataset is described in the paper at the link https://doi.org/10.1109/ICCVW.2011.6130452.|
