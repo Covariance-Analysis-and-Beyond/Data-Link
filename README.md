@@ -10,8 +10,8 @@ This resource provides links to the articles associated with most of the example
 |---------|---------|------|
 | 1    | Example 1 | The dataset is described in the papers at the links https://doi.org/10.1016/j.cemconcomp.2007.02.001 and https://doi.org/10.12989/cac.2008.5.6.559.|
 | 1    | Example 2 | The dataset is described in the paper at the link https://doi.org/10.1080/07350015.2022.2142593.|
-| 2    | Example 1.1 | The dataset is described in the papers at the links https://doi.org/10.1080/01621459.2012.758041 and https://doi.org/10.1016/S1535-6108(02)00030-2|
-| 2    | Example 1.2 | The dataset is described in the papers at the links https://doi.org/10.1214/16-EJS1195 and http://genomebiology.com/2004/5/11/R92.|
+| 2    | Example 1.1 | The dataset is described in the papers at the links https://doi.org/10.1080/01621459.2012.758041 and https://doi.org/10.1016/S1535-6108(02)00030-2.|
+| 2    | Example 1.2 | The dataset is described in the papers at the links https://doi.org/10.1214/16-EJS1195 and https://pubmed.ncbi.nlm.nih.gov/15535868.|
 | 2    | Example 2.1 | The dataset is described in the paper at the link https://doi.org/10.1080/07350015.2014.923317.|
 | 2    | Example 2.2 | The dataset is described in the paper at the link https://doi.org/10.1016/j.jeconom.2022.10.008.|
 | 2    | Example 3.1 | The dataset is described in the paper at the link https://doi.org/10.1093/biomet/ass025.|
